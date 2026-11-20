@@ -1,0 +1,7 @@
+Ejecuciones analizadas:        111
+worker1 primero / worker2:     69 / 42
+Dif. con signo (w2-w1):        media +0.001 ms | desv. est. 0.330 ms
+IC 95% de la media:            [-0.061, +0.062] ms
+Dif. absoluta |w2-w1|:         media 0.158 | mediana 0.040 | desv. 0.289 ms
+Dif. absoluta min / max:       0.000 / 1.807 ms
+Mediana entre ejecuciones:     608.2 ms
